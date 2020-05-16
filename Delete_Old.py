@@ -1,3 +1,10 @@
+'''
+This Python Script will delete old files and folders that were created a certain number of days before (provided by user)
+'''
+
+
+
+
 import os
 import time
 import shutil
